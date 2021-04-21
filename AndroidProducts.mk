@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_raphael.mk
+    $(LOCAL_DIR)/bootleg_raphael.mk
+	
+COMMON_LUNCH_CHOICES := \
+    bootleg_raphael-user \
+    bootleg_raphael-userdebug \
+    bootleg_raphael-eng	
