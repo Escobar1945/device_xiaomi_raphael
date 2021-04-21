@@ -1,0 +1,7 @@
+[
+  {
+    "repository"  : "PotatoDevices/proprietary_vendor_xiaomi",
+    "target_path" : "vendor/xiaomi",
+    "branch": "dumaloo-release"
+  }
+]
